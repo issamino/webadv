@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/webdevshop/dao/Database.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/dao/PersoonDao.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/view/order.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/view/orders.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/model/OrderDetail.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/dao/CategorieDao.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/model/Order.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/view/header.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/controller/AdresController.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/dao/OrderDetailDao.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/controller/OrderDetailController.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/controller/BestellingController.php</file>
+            <file>file:/C:/xampp/htdocs/webdevshop/dao/BestellingDao.php</file>
+        </group>
+    </open-files>
+</project-private>
